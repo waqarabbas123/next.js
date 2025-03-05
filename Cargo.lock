@@ -9628,6 +9628,7 @@ dependencies = [
  "auto-hash-map",
  "browserslist-rs",
  "const_format",
+ "data-encoding",
  "either",
  "futures",
  "indexmap 2.7.1",
@@ -9655,6 +9656,7 @@ dependencies = [
  "turbo-tasks-env",
  "turbo-tasks-fs",
  "turbo-tasks-hash",
+ "urlencoding",
 ]
 
 [[package]]
